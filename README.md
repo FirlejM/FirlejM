@@ -33,8 +33,7 @@ My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work s
 
 # My example exploratory tests
 
-[Zakotwiczony tekst]
-(https://remigiuszbednarczyk.pl)
+[Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
 
 # My sample queries
 
