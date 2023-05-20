@@ -1,5 +1,7 @@
 # Portfolio 
 
+# About me
+My name is Mariusz. I'm firefighter in Municipality State Fire Service. 
 - 👋 Hi, I’m @FirlejM
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
