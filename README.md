@@ -33,7 +33,9 @@ My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work s
 
 # My example exploratory tests
 
-[example1](https://drive.google.com/file/d/1RGW4su167ODY-W2TxBFOCE9PI5k9czsH/view?usp=share_link)
+* [exploratory test1](https://drive.google.com/file/d/1RGW4su167ODY-W2TxBFOCE9PI5k9czsH/view?usp=share_link)
+* [exploratory test2](https://drive.google.com/file/d/1OW8DQaxwP-7O1Lm9KNAkGN8qEABJJ5NA/view?usp=share_link)
+* [exploratory test3](https://drive.google.com/file/d/1oytjnHv64GYMo2Oqup8Kvvcj9zHgM2GV/view?usp=share_link)
 
 # My sample queries
 
@@ -41,7 +43,7 @@ My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work s
 
 # My example test cases
 
-
+* [Test Case](https://drive.google.com/file/d/1_3ZQmFSn8wcppXVBYhL1O3OtPJoR7RLU/view?usp=share_link)
 
 <!---
 FirlejM/FirlejM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
