@@ -1,6 +1,8 @@
 # Portfolio 
 
+
 # About me
+
 My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work shifts, 24 hours on duty and 48 hours off. My current job is rescuing but most of my time is waiting to be dispatched. I am interested in new technologies and solutions. I like mental work and creating solutions. For this reason, I would like to develop my acquired skills in software testing. I can test software full time, 120 hours in office, 48 hours remotely.
 
 # Tools
@@ -10,8 +12,26 @@ My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work s
 * Dev Tools
 * GitHub version control system
 * Slack - communication and collaboration tool
-* Postman, SoapUI - testing tools for REST APIs - in progress (Udemy)
+* Postman - testing tools for REST APIs - **in progress (Udemy)**
 
+# Tech Stack
+
+* ISTQB: Foundation Level (No20323/CTFL/2023)
+* Databases: MySQL
+* The Complete Guide - REST API Testing - **in progress (Udemy)**
+
+# Courses
+
+* Testing academy 
+* SQL for testers
+* Postman: The Complete Guide - REST API Testing - **in progress (Udemy)**
+
+# Technical Books read
+
+* Certyfikowany tester ISTQB - A.Roman, L.Stapp
+* Praktyka testowania - R.Smilgin
+
+# My example exploratory tests
 
 
 
