@@ -39,7 +39,7 @@ My name is Mariusz. I'm firefighter in Municipality State Fire Service. I work s
 
 ## My sample queries
 
-[sample](https://drive.google.com/file/d/1qj9Qhv7BwjAax2i1Eo10_odgS1Y5WeJV/view?usp=share_link)
+* [sample](https://drive.google.com/file/d/1qj9Qhv7BwjAax2i1Eo10_odgS1Y5WeJV/view?usp=share_link)
 
 ## My example test cases
 
