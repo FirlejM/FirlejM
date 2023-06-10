@@ -53,7 +53,7 @@ My name is Mariusz. I am interested in new technologies and solutions. I like me
 
 ## My example bugs reporting (Mantis)
 
-* [bugs report](https://drive.google.com/file/d/1gWg9UESnz8xVjRbdWbEugiB4Xk5EXMr-/view?usp=share_link](https://drive.google.com/file/d/1SujMoGF95iCiqgQkNofyiQe3eoIap0y3/view?usp=sharing)
+* [bugs report](https://drive.google.com/file/d/1SujMoGF95iCiqgQkNofyiQe3eoIap0y3/view?usp=sharing)
 <!---
 FirlejM/FirlejM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
