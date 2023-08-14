@@ -58,6 +58,10 @@ My name is Mariusz. I am interested in new technologies and solutions. I like me
 ## My example work in Postman
 
 * [postman collection](https://drive.google.com/file/d/1uPe5mP7zKf5cOtF6Z1H3qyZXY6vJzcQg/view?usp=sharing)
+
+## My example work with Playwright
+
+* [Playwright](https://drive.google.com/file/d/1BjCsVvUflxS1vjGmocrvxIj9EFQ3ANuV/view?usp=sharing)
 <!---
 FirlejM/FirlejM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
