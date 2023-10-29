@@ -57,8 +57,8 @@ My name is Mariusz. I am interested in new technologies and solutions. I like me
 
 ## My example work in Postman
 
-* [postman collection](https://drive.google.com/file/d/1uPe5mP7zKf5cOtF6Z1H3qyZXY6vJzcQg/view?usp=sharing)
-* [postman collection](https://drive.google.com/file/d/1OvnlbDur265fHERQmEvk8IBS6nBkAjDJ/view?usp=sharing)
+* [postman collection I](https://drive.google.com/file/d/1uPe5mP7zKf5cOtF6Z1H3qyZXY6vJzcQg/view?usp=sharing)
+* [postman collection II](https://drive.google.com/file/d/1OvnlbDur265fHERQmEvk8IBS6nBkAjDJ/view?usp=sharing)
 
 ## My example work with Playwright
 
